@@ -1,0 +1,6 @@
+# снимок Ср 07 окт 2026 20:23:24 MSK
+# PID RUID EUID COMMAND
+   3029  1000     0 fusermount3
+
+# через /proc
+/proc/3029 rUID=1000 eUID=0 cmd=fusermount3
